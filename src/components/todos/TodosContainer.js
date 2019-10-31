@@ -15,7 +15,7 @@ class TodosContainer extends Component {
   }
 };
 
-mapStateToProps = state => {
+mapStateToPropss = state => {
   return {
     todos: state.todos
   }
